@@ -1,6 +1,7 @@
 # Sprocket-s_Slot_Machine
 
 find it here: https://hypnotic-spotted-bat.glitch.me/
+Its hosted for free so the .png(s) takes a moment to download. Have patience.
 
 This is a slot machine app using Sprocket's photos. The app uses OOP. I centered everything for readability. I kept the design very simple. 
 You click the spin button and the three coloumns will randomly generate 50 times. If the three pics are the same you win. For some reason it
