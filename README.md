@@ -9,3 +9,4 @@ also lets you win with certain pairs. I ran out of time to fix this issue. I wou
 This way was the simplest for me to understand when broken down very small. Please have fun with it! 
 
 
+![Sprockets_SlotMachine_Preview](https://user-images.githubusercontent.com/106359030/205383277-c6f6e424-5a4f-4fb7-9c28-993da4a47584.png)
